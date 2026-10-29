@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3436-find-valid-emails](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
