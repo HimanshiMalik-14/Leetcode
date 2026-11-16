@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
