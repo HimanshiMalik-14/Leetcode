@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
