@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
