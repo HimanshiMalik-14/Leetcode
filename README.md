@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
