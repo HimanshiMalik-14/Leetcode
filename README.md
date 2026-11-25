@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
