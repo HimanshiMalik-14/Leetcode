@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,14 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
