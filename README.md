@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshiMalik-14/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
