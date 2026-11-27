@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HimanshiMalik-14/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshiMalik-14/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HimanshiMalik-14/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
